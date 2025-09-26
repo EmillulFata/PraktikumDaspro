@@ -1,2 +1,1 @@
-fitur 1
-fitur 2
+Hi GitHub, This Is My First Repository
